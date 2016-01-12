@@ -1,6 +1,6 @@
 {
   "name": "mongoose-query-random",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pull out random documents from a collection using Mongoose.",
   "main": "mongoose-query-random.js",
   "scripts": {
